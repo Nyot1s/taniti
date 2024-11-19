@@ -30,6 +30,7 @@ nav a {
     
 text-decoration: none;
 color: var(--text);
+
 }
 
 nav a:hover {
@@ -53,6 +54,11 @@ body {
 .image {
     flex-shrink: 0;
     flex-grow: 1;
+}
+
+.highlight {
+    color: var(--accentcolor2);
+    
 }
 
 
